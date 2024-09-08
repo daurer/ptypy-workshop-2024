@@ -38,3 +38,13 @@ To test that everything has been installed correctly, we can run one of the temp
 cd /path/to/ptypy/templates
 python ptypy_minimal_prep_and_run.py
 ```
+
+## Install fully blown PtyPy on top of MPI and CUDA
+
+## Install fully blown PtyPy using conda
+
+Download the `conda` package manager from conda-forge:
+
+```bash
+wget https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Linux-x86_64.sh /path/to/installer
+```
